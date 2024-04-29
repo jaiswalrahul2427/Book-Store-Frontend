@@ -1,0 +1,96 @@
+[{
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 0,
+        "Category": "Free",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    },
+    {
+        "id": 2,
+        "name": "Sports Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 50,
+        "Category": "Sports",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    },
+    {
+        "id": 3,
+        "name": "Music Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 400,
+        "Category": "Music",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    },
+    {
+        "id": 4,
+        "name": "Horror Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 0,
+        "Category": "Free",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    },
+    {
+        "id": 5,
+        "name": "Historical Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 0,
+        "Category": "Free",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    },
+    {
+        "id": 6,
+        "name": " Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 0,
+        "Category": "Free",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    },
+    {
+        "id": 7,
+        "name": "Novel Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 0,
+        "Category": "Free",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    },
+    {
+        "id": 8,
+        "name": "Cook Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 149,
+        "Category": "Adventure",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    }, {
+        "id": 9,
+        "name": "Classics Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 299,
+        "Category": "Classics",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    },
+    {
+        "id": 10,
+        "name": "Fantasy Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 529,
+        "Category": "Fantasy",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    },
+    {
+        "id": 11,
+        "name": "Romancial Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 199,
+        "Category": "Romancial",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    },
+    {
+        "id": 12,
+        "name": "Adventure Book",
+        "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, nihil!",
+        "price": 99,
+        "Category": "Adventure",
+        "image": "https://th.bing.com/th/id/OIP.uHg9sCIUCaJEYqLdIJBmEQHaHa?pid=ImgDet&w=474&h=474&rs=1"
+    }
+]
